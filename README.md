@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkpicture.com/q/Blue-and-Gray-Illustration-Personal-LinkedIn-Banner.png)](https://rishavchanda.io)
+[![MasterHead](img.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Awab Ahmed</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
