@@ -1,7 +1,7 @@
 [![MasterHead](img.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Awab Ahmed</h1>
 <h3 align="center">A passionate <span>
-  <br>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=435&lines=CS+Undergrad;Dart+%26+JS+Developer;Data+Enthusiast;Core+Team+Flutter+ISB;Technical+Writer)](https://git.io/typing-svg)
 
