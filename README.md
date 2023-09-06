@@ -3,6 +3,7 @@
 <h3 >A passionate </h3>
 
 <div  align="center">
+  <br />
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=435&lines=CS+Undergrad;Dart+%26+JS+Developer;Data+Enthusiast;Core+Team+Flutter+ISB;Technical+Writer)](https://git.io/typing-svg)
 </div>
 
