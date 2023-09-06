@@ -3,9 +3,10 @@
 <h3 >A passionate </h3>
 
 
-  <br />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=435&lines=CS+Undergrad;Dart+%26+JS+Developer;Data+Enthusiast;Core+Team+Flutter+ISB;Technical+Writer)](https://git.io/typing-svg)
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=78F713&width=435&lines=CS+Undergrad;Dart+%26+JS+Developer;Data+Enthusiast;Core+Team+Flutter+ISB;Technical+Writer)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
