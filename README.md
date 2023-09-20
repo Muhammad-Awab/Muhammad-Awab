@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **https://awabportfolio.netlify.app/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-awab-ahmed-394aa0221/](https://www.linkedin.com/in/muhammad-awab-ahmed-394aa0221/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammadawab/](https://www.linkedin.com/in/muhammadawab/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
